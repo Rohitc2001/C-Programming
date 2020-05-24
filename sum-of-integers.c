@@ -11,6 +11,7 @@ void main()
 	getch();
 }
 
-/* Output
+/*
+ Output
  SUM OF a and b is : 10
 */                               
