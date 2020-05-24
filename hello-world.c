@@ -7,3 +7,8 @@ void main()
 	printf("Hello World!");
 	getch();
 }
+
+/*
+  output
+  Hello World!
+*/
