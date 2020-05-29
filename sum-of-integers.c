@@ -4,14 +4,27 @@
 
 void main()
 {
-	int a = 5 , b = 5 ;
+	int a,b;
+	clrscr();
+		
+	printf("Enter the value of a : ");
+	scanf("%d",&a);
 	
-	printf("SUM OF a and b is : %d",a + b);
+	printf("Enter the value of b : ");
+	scanf("%d",&b);
+	
+	printf("\nSUM OF a and b is : %d",a + b);
 	
 	getch();
 }
 
-/*
- Output
- SUM OF a and b is : 10
+/* NOTE
+-> write   clrscr(); & getch(); only when using Turbo C++ . 
+
+-> Output :
+ 
+ Enter the value of a : 5
+ Enter the value of a : 4
+ SUM OF a and b is : 9
+
 */                               
