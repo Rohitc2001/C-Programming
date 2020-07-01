@@ -3,7 +3,8 @@
  // Find the greatest integer.
  // IDE used -> DEV C++
 
- void main(){
+ void main()
+ {
 
   	int integer_a , integer_b ; // variables
 
