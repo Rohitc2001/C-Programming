@@ -1,9 +1,10 @@
-#include<stdio.h>
+ #include<stdio.h>
 
-// Find the greatest integer.
-// IDE used -> DEV C++
+ // Find the greatest integer.
+ // IDE used -> DEV C++
 
-void main(){
+ void main()
+ {
 
   	int integer_a , integer_b ; // variables
 
@@ -15,16 +16,16 @@ void main(){
 	  printf("enter integer_b : ");
 	  scanf("%d",&integer_b);
 
-	 	if(integer_a > integer_b)
-      	{
-  			printf("\ninteger_a is greater");
-  		}
-  		else if(integer_a == integer_b)
-    	{
-	  		printf("\nBoth intergers are equal");
-	    }
-  		else
-    	{
-	   		printf("\ninteger_b is greater");
-	    }
-}
+	 if(integer_a > integer_b)
+      	 {
+  	 	printf("\ninteger_a is greater");
+  	 }
+  	 else if(integer_a == integer_b)
+    	 {
+	 	printf("\nBoth intergers are equal");
+	 }
+  	 else
+    	 {
+	  	printf("\ninteger_b is greater");
+	 }
+ }
