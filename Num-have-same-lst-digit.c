@@ -18,6 +18,6 @@
 	}
 	else
 	{
-		printf("Last digit of numbers is nit same");
+		printf("Last digit of numbers is not same");
 	}
  }
