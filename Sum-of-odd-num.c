@@ -1,7 +1,6 @@
+					// Enter the 5 number from user and print the sum of odd number .
+							// IDE used -> DEV C++
 #include<stdio.h>
-
-// Enter the 5 number from user and print the sum of odd number .
-// IDE used -> DEV C++
 
 int main()
 {
