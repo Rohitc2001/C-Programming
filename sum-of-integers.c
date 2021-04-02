@@ -1,4 +1,4 @@
-                                // program to find sum of two integers 
+                                 // program to find sum of two integers 
 #include<stdio.h>
 #include<conio.h>
 
